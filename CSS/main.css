@@ -1,0 +1,13 @@
+body
+{
+    background-image: linear-gradient(to bottom right, rgba(0,18,129,1), rgba(62,88,255,1));
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    color: white;
+    text-align: center;
+}
+
+footer
+{
+    background-color: black;
+}
