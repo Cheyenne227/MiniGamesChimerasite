@@ -1,13 +1,36 @@
 body
 {
-    background-image: linear-gradient(to bottom right, rgba(0,18,129,1), rgba(62,88,255,1));
+    background-image: linear-gradient(to bottom right, rgb(0, 6, 63), rgb(0, 12, 119));
     background-repeat: no-repeat;
     background-size: 100% 100vh;
     color: white;
     text-align: center;
 }
 
+main
+{
+    margin: 20px;
+}
+
 footer
 {
     background-color: black;
+    text-align: left;
+    padding: 5px;
+    position: absolute; 
+    bottom:0;
+    left: 0;
+    right: 0;
 }
+
+button
+{
+    color: black;
+    background-color: white;
+    text-align: center;
+    border: 0; 
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 10px 0px; 
+}
+
